@@ -1,0 +1,14 @@
+# File System
+.DS_Store
+
+# IDE
+**/.idea
+
+### zig ###
+# Zig programming language
+
+zig-cache/
+zig-out/
+build/
+build-*/
+docgen_tmp/
